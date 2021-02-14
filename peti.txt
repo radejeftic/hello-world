@@ -1,1 +1,2 @@
 moj peti
+moj peti unstage
