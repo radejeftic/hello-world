@@ -1,2 +1,3 @@
 index4 file prvi put
 promjena na iss54
+jos jedna promjena na issue54
