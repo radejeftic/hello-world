@@ -1,1 +1,2 @@
 ovo su promjene na trecem koje su uradjene na main branci
+promjene vezane za hot fix:
